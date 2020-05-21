@@ -17,6 +17,15 @@
 <meta property="og:image:height" content="873px">
 <script async="" src="../www.googletagmanager.com/gtm5445.html?id=GTM-KN4QF2W"></script><script async="" src="../connect.facebook.net/en_US/fbevents.js"></script><script async="" src="../www.googletagmanager.com/gtm5445.html?id=GTM-5VZJ7PD"></script><script async="" src="../www.googletagmanager.com/gtm5445.html?id=GTM-KN4QF2W"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/-wV2EAWEOTlEtZh4vNQtn3H1/recaptcha__en.js"></script><script src="../www.google.com/recaptcha/api.js"></script>
 <!-- Google Tag Manager Vitalant Owned May 2020 -->
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.png">
+<link rel="manifest" href="./icon/site.webmanifest">
+<link rel="mask-icon" href="./icon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
 <script>(function (w, d, s, l, i) {
     w[l] = w[l] || []; w[l].push({
         'gtm.start':
@@ -88,6 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <noscript>
 <img src="https://ad.doubleclick.net/ddm/activity/src=9989376;type=landi0;cat=vital0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>
 </noscript>
+
 </head>
 <body class="LTR Mozilla ENUS ContentBody">
   <%--  <form id="form1" runat="server">--%>
