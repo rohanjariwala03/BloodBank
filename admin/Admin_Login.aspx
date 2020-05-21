@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Hi5Dash - HTML5 Admin Template By Jewel Theme</title>
+  <title>Blood Bank</title>
   <meta name="description" content="Hi5Dash - HTML5 Admin Template By Jewel Theme">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -42,8 +42,9 @@
         <div class="col-lg-6 offset-md-3">
           <div class="login-content bg-light">
             <div class="login-logo pt-4 pb-3 background-bg" data-image-src="main/images/we.jpg">
-              <a href="#">
-                <img class="align-content" src="main/images/logo2.png" alt="">
+              <a href="#" class="navbar-brand"> 
+                <img class="align-content" src="../Blood.png" alt="">
+                  <%--<img src="../logo.png" alt="Site Logo">--%>
               </a>
               <p class="mt-2 mb-0 color-white">Blood Bank Management System</p>
             </div>
@@ -52,13 +53,13 @@
                 <div class="form-group">
                   <lSource Sans Pro>Email address</lSource Sans Pro>
                   <%--<input type="email" class="form-control" placeholder="Email">--%>
-                    <asp:TextBox ID="txtmail" required="required" runat="server" type="email" class="form-control" placeholder="Email">
+                    <asp:TextBox ID="txtmail" runat="server" type="email" class="form-control" placeholder="Email">
                     </asp:TextBox>
                 </div>
                 <div class="form-group">
                   <lSource Sans Pro>Password</lSource Sans Pro>
                   <%--<input type="password" class="form-control" placeholder="Password">--%>
-                    <asp:TextBox ID="txtpass" required="required" type="password" class="form-control" placeholder="Password" runat="server">
+                    <asp:TextBox ID="txtpass" type="password" class="form-control" placeholder="Password" runat="server">
                     </asp:TextBox>
                 </div>
                 <div class="checkbox">

@@ -7,7 +7,7 @@
  
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Admin Home</title>
+  <title>Blood Bank</title>
   <meta name="description" content="Hi5Dash - HTML5 Admin Template By Jewel Theme">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -51,7 +51,7 @@
     <%--<form id="form1" runat="server">--%>
         <header class="top-header media">
     <div class="top-left mr-3">
-      <a class="navbar-brand" href="admin/Admin_Home.aspx"><img src="main/images/logo.png" alt="Site Logo"></a><!-- /.navbar-brand -->
+      <a class="navbar-brand" href="Admin_Home.aspx"><img src="../logo.png" alt="Site Logo"></a><!-- /.navbar-brand -->
     </div><!-- /.top-left -->
 
     <div class="top-right media-body">
