@@ -10,6 +10,7 @@
     </form>
 </body>
     <script>
+        //hii babes
         window.location.href = "./user/UserHome.aspx";
 </script>
 </html>
