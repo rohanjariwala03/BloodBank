@@ -62,6 +62,7 @@
     <Content Include="admin\Admin_Home.aspx" />
     <Content Include="admin\Blood_List.aspx" />
     <Content Include="admin\Admin_Login.aspx" />
+    <Content Include="admin\Del_Blood.aspx" />
     <Content Include="admin\main\apple-touch-icon.html" />
     <Content Include="admin\main\assets\css\bootstrap.min.css" />
     <Content Include="admin\main\assets\css\calendar\calendar.css" />
@@ -425,6 +426,13 @@
     <Compile Include="admin\Admin_Login.aspx.designer.cs">
       <DependentUpon>Admin_Login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="admin\Del_Blood.aspx.cs">
+      <DependentUpon>Del_Blood.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\Del_Blood.aspx.designer.cs">
+      <DependentUpon>Del_Blood.aspx</DependentUpon>
+    </Compile>
     <Compile Include="admin\User_List.aspx.cs">
       <DependentUpon>User_List.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -484,9 +492,6 @@
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="user\AboutUs.aspx.cs">
       <DependentUpon>AboutUs.aspx</DependentUpon>

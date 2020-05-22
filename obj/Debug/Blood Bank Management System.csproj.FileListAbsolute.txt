@@ -17,3 +17,9 @@ C:\Users\student\source\repos\Blood Bank Management System\Blood Bank Management
 C:\Users\student\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.dll
 C:\Users\student\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
 C:\Users\student\source\repos\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\obj\Debug\Blood Bank Management System.dll
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\obj\Debug\Blood Bank Management System.pdb
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\bin\Blood Bank Management System.dll.config
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\bin\Blood Bank Management System.dll
+C:\Users\student\source\repos\Blood Bank Management System\BloodBank\bin\Blood Bank Management System.pdb

@@ -10,7 +10,7 @@
 namespace Blood_Bank_Management_System.admin {
     
     
-    public partial class WebForm4 {
+    public partial class ContactUs {
         
         /// <summary>
         /// Repeater1 control.

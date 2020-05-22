@@ -107,17 +107,7 @@
                       <div class="row form-group">
                         <div class="col col-md-3"><label for="select" class=" form-control-label">Blood Group</label></div>
                         <div class="col-12 col-md-9">
-                          <asp:DropDownList ID="dropBlood" runat="server" class="form-control">
-                                <%--<asp:ListItem Value="0" Text="Select Blood Group"></asp:ListItem>
-                                <asp:ListItem Value="O+" Text="O+"></asp:ListItem>
-                              <asp:ListItem Value="O-" Text="O-"></asp:ListItem>
-                              <asp:ListItem Value="A+" Text="A+"></asp:ListItem>
-                              <asp:ListItem Value="A-" Text="A-"></asp:ListItem>
-                              <asp:ListItem Value="B+" Text="B+"></asp:ListItem>
-                              <asp:ListItem Value="B-" Text="B-"></asp:ListItem>
-                              <asp:ListItem Value="AB+" Text="AB+"></asp:ListItem>
-                              <asp:ListItem Value="AB-" Text="AB-"></asp:ListItem>--%>
-                            </asp:DropDownList>
+                          <asp:DropDownList ID="dropBlood" runat="server" class="form-control"></asp:DropDownList>
                         </div>
                       </div>
 

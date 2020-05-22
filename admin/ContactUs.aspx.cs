@@ -10,7 +10,7 @@ using System.Configuration;
 
 namespace Blood_Bank_Management_System.admin
 {
-    public partial class WebForm4 : System.Web.UI.Page
+    public partial class ContactUs : System.Web.UI.Page
     {
         SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString);
         SqlCommand cmd = new SqlCommand();
@@ -25,11 +25,9 @@ namespace Blood_Bank_Management_System.admin
             Repeater1.DataSourceID = "SqlDataSource1";
 
             Repeater1.DataBind();
-        }
-        protected void Page_Unload(object sender, EventArgs e)
-        {
             cn.Close();
         }
+        
 
     }
 }
